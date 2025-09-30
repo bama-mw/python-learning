@@ -1,0 +1,1 @@
+greeting = "Saya mulai belajar Python!"
